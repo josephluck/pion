@@ -1,5 +1,7 @@
 # Pion
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/josephluck/pion.svg)](https://greenkeeper.io/)
+
 A minimum viable front-end framework
 
 ## Why?
