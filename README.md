@@ -15,7 +15,7 @@ Pion has only a few concepts:
 Views render HTML elements to the page:
 
 ```javascript
-h('div', { id: 'pion-app', 'Pion is super small!' }) // --> <div id='pion-app'>Pion is super small</div> 
+h('div', { id: 'pion-app' }, 'Pion is super small!') // --> <div id='pion-app'>Pion is super small</div> 
 ```
 
 ### State
